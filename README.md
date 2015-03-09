@@ -1,4 +1,4 @@
-# OpenShift HHVM Cartridge with NGINX Permalinks Enabled
+# OpenShift HHVM Cartridge with NGINX Permalinks Enabled for WP
 
 Nginx 1.7.8 with HHVM 3.5.0
 
