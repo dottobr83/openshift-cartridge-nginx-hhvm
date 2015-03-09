@@ -1,4 +1,4 @@
-# OpenShift HHVM Cartridge
+# OpenShift HHVM Cartridge with Permalinks Enabled
 
 Nginx 1.7.8 with HHVM 3.5.0
 
