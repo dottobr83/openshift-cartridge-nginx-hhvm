@@ -8,7 +8,7 @@ Partly based on [pinodex/openshift-nginx-php-fpm](https://github.com/pinodex/ope
 
 ### Command line
 ```bash
-$ rhc app create appname http://cartreflect-claytondev.rhcloud.com/github/tengyifei/openshift-cartridge-nginx-hhvm
+$ rhc app create appname http://cartreflect-claytondev.rhcloud.com/github/dottobr83/openshift-cartridge-nginx-hhvm
 $ cd appname
 $ echo '<?php echo "Hello HHVM " . HHVM_VERSION; ?>' > www/index.php
 $ git add .
