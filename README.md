@@ -2,7 +2,7 @@
 
 Nginx 1.7.8 with HHVM 3.5.0
 
-Partly based on [pinodex/openshift-nginx-php-fpm](https://github.com/pinodex/openshift-nginx-php-fpm).
+Based on [tengyifei/openshift-cartridge-nginx-hhvm](https://github.com/tengyifei/openshift-cartridge-nginx-hhvm). 
 
 ## Usage
 
